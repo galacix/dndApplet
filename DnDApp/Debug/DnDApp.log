@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\turne\source\repos\dndapp\dndapp\main.cpp(31): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+c:\users\turne\source\repos\dndapp\dndapp\main.cpp(50): warning C4101: 'gmeBreak': unreferenced local variable
+  DnDApp.vcxproj -> C:\Users\Turne\source\repos\DnDApp\Debug\DnDApp.exe
